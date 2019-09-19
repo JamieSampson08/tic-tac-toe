@@ -1,9 +1,6 @@
 ##Jamie Sampson
 September 9, 2019 - September 12, 2019
 
-**Note**: If you wanta make this file look pretty, open with a markdown reader
-Personally used: [here](https://markdownlivepreview.com/)
-
 ### Requirements
 Use any language and any freely available supporting libraries you like. Clearly identify any
 code that you did not write yourself. Please provide instructions to compile and run your code
@@ -18,12 +15,6 @@ There is no requirement to write any GUI or AI.
 ## Set Up
 IDE: [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)
 
-1. Open PyCharm -> New Project
-Enviornment: `Virtualenv`
-Base Interpreter: `Python 3.7`
-2. Create a new folder, with a project name <name | recommended, `Jamie_Sampson`> -> Create
-3. Go to location of new project, copy `src` folder inside zipped folder, paste into new project folder
-
 ### Packages
 - **mock**: go to a test that uses mock, import should be red, if you hoover by it, there should be an option
         to install package, click that
@@ -31,9 +22,6 @@ Base Interpreter: `Python 3.7`
              I personally have pip installed, so I ran `pip install nose`
 
 ### Imports
-**Note**: Think these all naturally come with PyCharm / Python 3.7?? (ie. I didn't have to download a package like
-      I did for the mock import
-
 - `import unittest`
 - `from io import StringIO`
 - `import sys`
