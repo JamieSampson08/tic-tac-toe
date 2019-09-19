@@ -1,4 +1,3 @@
-##Jamie Sampson
 September 9, 2019 - September 12, 2019
 
 ### Requirements
